@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hockey</string>
+    <string name="penalties_txt">Penalties</string>
+    <string name="countdown_Start_btn">Start\ntime</string>
+    <string name="countdown_Stop_btn">Stop\ntime</string>
+    <string name="countdown_Pause_btn">Pause\ntime</string>
+    <string name="reset_btn">Reset\nscores</string>
+    <string name="A3_btn">Goal</string>
+    <string name="A2_btn">2 min. penalties</string>
+    <string name="A1_btn">5 min. penalties</string>
+    <string name="B3_btn">Goal</string>
+    <string name="B2_btn">2 min. penalties</string>
+    <string name="B1_btn">5 min. penalties</string>
+    <string name="time_txt">30:00</string>
+    <string name="TeamA_txt">Team A</string>
+    <string name="TeamB_txt">Team B</string>
+    <string name="scoreA_txt">0</string>
+    <string name="scoreB_txt">0</string>
+
+</resources>
